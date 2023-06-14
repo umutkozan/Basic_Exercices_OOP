@@ -1,0 +1,5 @@
+package cokluİmplementasyon;
+
+public interface IYemek {
+
+}

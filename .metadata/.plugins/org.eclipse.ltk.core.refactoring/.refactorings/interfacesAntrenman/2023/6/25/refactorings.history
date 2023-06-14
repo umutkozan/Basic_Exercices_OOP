@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;interfacesAntrenman.ICustomerDal&apos; to &apos;IMusteriDal&apos;&#x0D;&#x0A;- Original project: &apos;interfacesAntrenman&apos;&#x0D;&#x0A;- Original element: &apos;interfacesAntrenman.ICustomerDal&apos;&#x0D;&#x0A;- Renamed element: &apos;interfacesAntrenman.IMusteriDal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ICustomerDal&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;interfacesAntrenman{ICustomerDal.java[ICustomerDal" matchStrategy="1" name="IMusteriDal" qualified="false" references="true" similarDeclarations="false" stamp="1686673084874" textual="false" version="1.0"/>
+</session>

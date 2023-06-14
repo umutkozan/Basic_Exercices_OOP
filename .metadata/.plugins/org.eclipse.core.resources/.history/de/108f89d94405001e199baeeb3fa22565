@@ -1,0 +1,8 @@
+package inheritance3;
+
+public class EmailLogger extends Logger {
+    public void log() {
+    	
+    	
+    }
+}

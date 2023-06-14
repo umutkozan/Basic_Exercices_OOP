@@ -1,0 +1,19 @@
+package uyelikSistemi;
+
+public class Student extends User{
+     String ogrenciDers;
+     String ogrenciPuan;
+     public String getOgrenciDers() {
+		return ogrenciDers;
+	}
+	public void setOgrenciDers(String ogrenciDers) {
+		this.ogrenciDers = ogrenciDers;
+	}
+	public String getOgrenciPuan() {
+		return ogrenciPuan;
+	}
+	public void setOgrenciPuan(String ogrenciPuan) {
+		this.ogrenciPuan = ogrenciPuan;
+	}
+	
+}

@@ -1,0 +1,7 @@
+package uyelikSistemi;
+
+public class Instructor extends User{
+  String egitmenYetki;
+  String egitmenDers;
+
+}

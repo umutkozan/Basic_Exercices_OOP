@@ -1,0 +1,14 @@
+package inheritanceTekrar;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Customer custom1 = new Customer();
+		Employee emply1 = new Employee();
+		EmployeeManager employMng= new EmployeeManager();
+		CustomerManager customMng= new CustomerManager();
+	     
+		}
+	}
+
+

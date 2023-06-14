@@ -1,0 +1,11 @@
+package overriding;
+
+public class Main {
+
+	public static void main(String[] args) {
+//		OgretmenKrediManager ogretmenkredimng = new OgretmenKrediManager();
+//		System.out.println(ogretmenkredimng.hesapla(1500));
+           BaseKrediManager[] krediManager =new BaseKrediManager[] {new OgretmenKrediManager(),new TarimKrediManager()};
+	}
+
+}

@@ -1,0 +1,11 @@
+package inheritance3;
+
+
+public class CustomerManager {
+          public void add() {
+        	 //müsteri ekleme kodları
+        	  System.out.println("Müsteri Eklendi");
+          }
+          DataBaseLogger logger =  new DataBaseLogger();
+          
+}

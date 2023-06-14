@@ -1,0 +1,5 @@
+package uyelikSistemi;
+
+public class instructor extends user {
+
+}

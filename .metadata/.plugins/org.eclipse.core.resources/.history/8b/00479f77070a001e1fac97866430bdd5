@@ -1,0 +1,10 @@
+package interfacesAntrenman;
+
+public class Main {
+
+	public static void main(String[] args) {
+     MusteriManager musteriManager = new MusteriManager(new MySqlMusteriDal());
+
+	}
+
+}

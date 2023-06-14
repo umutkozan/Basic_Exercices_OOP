@@ -1,0 +1,8 @@
+package polymorphismDemo;
+
+public class consoleLogger extends BaseLogger{
+	public class BaseLogger {
+	    public void Log(String message) {
+	   System.out.println("Log to consol :	"+message);
+	    }
+}

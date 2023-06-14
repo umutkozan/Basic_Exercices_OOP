@@ -1,0 +1,10 @@
+package uyelikSistemi;
+
+public class UserManager {
+    public void add(User user) {
+ 	   System.out.println("Uye eklendi"+);
+    }
+    public void list(User user) {
+ 	  
+    }
+}

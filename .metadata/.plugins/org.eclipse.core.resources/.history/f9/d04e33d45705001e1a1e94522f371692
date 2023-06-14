@@ -1,0 +1,12 @@
+package hesapMakinesi;
+
+public class Main {
+
+	public static void main(String[] args) {
+		hesapla hesap = new hesapla();
+		hesap.topla(5, 20);
+		System.out.println("iki sayi toplamı "+ topla);
+
+	}
+
+}

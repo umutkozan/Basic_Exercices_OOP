@@ -1,0 +1,11 @@
+package cokluİmplementasyon;
+
+public class Calisan implements ICalis,IYemek,IMaas{
+
+	@Override
+	public void calis() {
+		
+		
+	}
+
+}

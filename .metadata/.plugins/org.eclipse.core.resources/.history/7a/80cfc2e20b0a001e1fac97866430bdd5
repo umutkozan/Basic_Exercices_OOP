@@ -1,0 +1,11 @@
+package cokluİmplementasyon;
+
+public class DisCalisan implements ICalis {
+
+	@Override
+	public void calis() {
+		
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package inheritance3;
+
+public class FileLogger extends Logger{
+    public void log() {
+    	
+    	
+    }
+     
+	}
+

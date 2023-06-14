@@ -1,0 +1,13 @@
+package inheritanceTekrar;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int id;
+		String firstName;
+		String lastName;
+		int age;
+		String mail;
+	}
+
+}

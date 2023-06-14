@@ -1,0 +1,19 @@
+package interfacesAntrenman;
+
+import interfaces_2.ICustomerDal;
+
+public class MusteriManager  { 
+
+////	             private ICustomerDal customerDal;
+//    public CustomerManager(ICustomerDal customerDal) {
+// this.customerDal = customerDal;
+//}
+//    public void add() {
+//    	customerDal.add();
+	 private IMusteriDal musteriDal;
+	 public MusteriManager (IMusteriDal musteriDal)
+    }
+		
+		
+
+

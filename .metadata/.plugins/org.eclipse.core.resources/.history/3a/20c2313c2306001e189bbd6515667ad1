@@ -1,0 +1,19 @@
+package uyelikSistemi;
+
+public class Instructor extends User{
+  private   String egitmenYetki;
+  private	String egitmenDers;
+    public String getEgitmenYetki() {
+		return egitmenYetki;
+	}
+	public void setEgitmenYetki(String egitmenYetki) {
+		this.egitmenYetki = egitmenYetki;
+	}
+	public String getEgitmenDers() {
+		return egitmenDers;
+	}
+	public void setEgitmenDers(String egitmenDers) {
+		this.egitmenDers = egitmenDers;
+	}
+
+}

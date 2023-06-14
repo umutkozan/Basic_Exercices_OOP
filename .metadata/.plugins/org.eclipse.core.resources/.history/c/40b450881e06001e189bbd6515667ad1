@@ -1,0 +1,9 @@
+package uyelikSistemi;
+
+public class user {
+     private int id;
+     private String ad;
+     private String soyad;
+     private String egitmeninAlani;
+     private String egitmeninDersi;
+}
