@@ -1,7 +1,0 @@
-package uyelikSistemi;
-
-public class InstructorManager extends UserManager{
-           public void add() {
-        	   System.out.println("Uye eklendi");
-           }
-}

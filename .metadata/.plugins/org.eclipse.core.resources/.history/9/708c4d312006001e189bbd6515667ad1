@@ -1,9 +1,0 @@
-package uyelikSistemi;
-
-public class User {
-     private int id;
-     private String ad;
-     private String soyad;
-
-
-}

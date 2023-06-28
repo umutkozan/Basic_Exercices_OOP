@@ -1,5 +1,0 @@
-package uyelikSistemi;
-
-public class user {
-     private int id;
-}

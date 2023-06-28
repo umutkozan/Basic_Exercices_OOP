@@ -1,6 +1,0 @@
-package cokluİmplementasyon;
-
-public interface IWork {
-          void calis();
-          
-}

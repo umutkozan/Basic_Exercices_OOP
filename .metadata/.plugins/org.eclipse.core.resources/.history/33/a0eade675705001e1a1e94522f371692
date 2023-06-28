@@ -1,8 +1,0 @@
-package hesapMakinesi;
-
-public class hesapla {
-            public int topla(sayi1,sayi2) {
-            	return sayi1+sayi2;
-            	 }
-           
-}

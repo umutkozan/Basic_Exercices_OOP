@@ -1,6 +1,0 @@
-package uyelikSistemi;
-
-public class Instructor extends User{
-    private String egitmenYetki;
-    private String egitmenDers;
-}

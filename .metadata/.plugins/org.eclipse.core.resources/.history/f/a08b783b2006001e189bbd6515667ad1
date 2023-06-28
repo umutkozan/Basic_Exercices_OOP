@@ -1,6 +1,0 @@
-package uyelikSistemi;
-
-public class Student extends User{
-    private String ogrenciDers;
-    private String ogrenciPuan;
-}

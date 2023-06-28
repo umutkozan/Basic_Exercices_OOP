@@ -1,5 +1,0 @@
-package interfacesAntrenman;
-
-public class MySqlMusteriDal implements IMusteriDal{
-
-}

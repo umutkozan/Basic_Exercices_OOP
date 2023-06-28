@@ -1,6 +1,0 @@
-package inheritanceTekrar;
-
-public class Customer {
-	
-	String email;
-}
